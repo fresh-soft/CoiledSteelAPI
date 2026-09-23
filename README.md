@@ -17,7 +17,7 @@
 
 Документация к API доступна:
 
-[API Documentation ](https://f949kaschenko.github.io/CoiledSteelAPI/)
+[API Documentation ](https://fresh-soft.github.io/CoiledSteelAPI/)
 
 <h2>Техническое задание проекта:</h2>
 
